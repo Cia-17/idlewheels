@@ -1,0 +1,12 @@
+# Private credentials
+/core/db_cred.php
+/core/paystack_cred.php
+
+# Error logs
+/error/*.log
+
+# Dependencies
+/vendor/
+
+# Environment files
+.env
